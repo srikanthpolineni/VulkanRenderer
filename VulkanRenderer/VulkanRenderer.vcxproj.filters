@@ -26,9 +26,6 @@
     <ClInclude Include="VulkanRenderer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="tiny_obj_loader.h">
-      <Filter>External</Filter>
-    </ClInclude>
     <ClInclude Include="stb_image.h">
       <Filter>External</Filter>
     </ClInclude>

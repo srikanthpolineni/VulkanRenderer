@@ -192,7 +192,6 @@ echo "yes" | compile.bat</Command>
   <ItemGroup>
     <ClInclude Include="Camera.hpp" />
     <ClInclude Include="stb_image.h" />
-    <ClInclude Include="tiny_obj_loader.h" />
     <ClInclude Include="VulkanRenderer.h" />
   </ItemGroup>
   <ItemGroup>
